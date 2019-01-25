@@ -1,8 +1,8 @@
 {
-  "name": "ftp",
-  "version": "0.3.10",
-  "author": "Brian White <mscdex@mscdex.net>",
-  "description": "An FTP client module for node.js",
+  "name": "@statengine/ftp",
+  "version": "0.3.11",
+  "author": "Brian White <mscdex@mscdex.net>, Prominent Edge",
+  "description": "Fork of node-ftp that supports FTPS.",
   "main": "./lib/connection",
   "engines": {
     "node": ">=0.8.0"
@@ -27,6 +27,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/node-ftp.git"
+    "url": "https://github.com/ProminentEdge/node-ftp"
   }
 }
